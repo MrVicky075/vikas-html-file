@@ -1,0 +1,17 @@
+- open file for inside the project 
+- cmd
+- .gitignore
+- git init -b main
+- git add .
+- git status
+- git branch -M main (only check)
+- git commit -m "Initial commit"
+
+-> crate Repositoy 
+- copy : https://github.com/MrVicky075/usermanagement.git
+git remote add origin ?
+git remote add origin https://github.com/MrVicky075/usermanagement.git
+
+- git remote -v
+- git push -u origin main
+- git push -u origin main --force (only want)
